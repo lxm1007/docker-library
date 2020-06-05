@@ -1,2 +1,2 @@
-FROM dyhexl/janus-webrtc-gateway-docker
+FROM mmendeza/janus-webrtc-gateway
 MAINTAINER lxm<15853261424@163.com>
