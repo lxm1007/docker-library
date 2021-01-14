@@ -1,2 +1,2 @@
-FROM gcr.io/k8s-staging-metrics-server/metrics-server-amd64:3e6f255153fe1553fdc24dfc0bb74e1f8c772e93
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.4.1
 MAINTAINER mritd <15853261424@163.com>
